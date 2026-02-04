@@ -1,6 +1,3 @@
-Since your exams are near and you're aiming for an internship, this README is designed to make you look like a Backend Engineer who understands AI Orchestration.
-
-It removes all the "Google AI Studio" branding and replaces it with professional documentation.
 
 🧠 Scholar-Orchestrator
 Autonomous Academic Agent & Resource Manager
